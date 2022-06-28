@@ -1,6 +1,6 @@
 # MailHog with Basic Auth Enabled
 
-MailHog is disabled auth by default eventhough it's already support Auth [https://github.com/mailhog/MailHog/blob/master/docs/Auth.md](https://github.com/mailhog/MailHog/blob/master/docs/Auth.md). This image is meant to enable Auth by default
+MailHog is disabled its auth feature by default [https://github.com/mailhog/MailHog/blob/master/docs/Auth.md](https://github.com/mailhog/MailHog/blob/master/docs/Auth.md). This image is meant to enable Auth by default
 
 ## Usage
 
